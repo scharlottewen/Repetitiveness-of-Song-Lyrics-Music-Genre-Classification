@@ -5,8 +5,6 @@
 <img src="figs/title1.jpeg" width="500">
 
 ### [Project Description](doc/)
-This is the first and only *individual* (as opposed to *team*) this semester. 
-
 Term: Spring 2020
 
 + Projec title: Repetitiveness of Song Lyrics & Music Genre Classification
