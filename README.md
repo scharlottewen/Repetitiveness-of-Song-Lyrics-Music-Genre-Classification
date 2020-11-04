@@ -1,6 +1,6 @@
 # Applied Data Science @ Columbia
 ## Spring 2020
-## Project 1: A "data story" on the songs of our times
+## Project 1: Repetitiveness of Song Lyrics & Music Genre Classification
 
 <img src="figs/title1.jpeg" width="500">
 
