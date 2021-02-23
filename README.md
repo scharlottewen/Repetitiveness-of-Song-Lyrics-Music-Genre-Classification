@@ -12,7 +12,7 @@ Term: Spring 2020
 
 + Project summary: According to the psychologists, human is such a sucker of repetition. Our brains are more willing to process the information that we are already familiar with. That's why, in the music industry, song producers have to admit that repetition is the central element of music, especially in the modern music industry. In this report, let’s go and explore the interesting facts about repetitiveness of song lyrics. 
 
-Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
+[Project Proposal](https://github.com/TZstatsADS/Spring2020-Project1-scharlottewen/blob/master/output/Repetitiveness%20of%20Song%20lyrics%20%26%20Music%20Classification..ipynb) 
 
 ```
 proj/
